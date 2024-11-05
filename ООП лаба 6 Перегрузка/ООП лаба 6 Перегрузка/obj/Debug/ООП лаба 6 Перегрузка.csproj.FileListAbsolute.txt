@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\ООП лаба 6 Перегрузка\ООП лаба 6 Перегрузка\bin\Debug\ООП лаба 6 Перегрузка.exe.config
+C:\Users\sasha\source\repos\ООП лаба 6 Перегрузка\ООП лаба 6 Перегрузка\bin\Debug\ООП лаба 6 Перегрузка.exe
+C:\Users\sasha\source\repos\ООП лаба 6 Перегрузка\ООП лаба 6 Перегрузка\bin\Debug\ООП лаба 6 Перегрузка.pdb
+C:\Users\sasha\source\repos\ООП лаба 6 Перегрузка\ООП лаба 6 Перегрузка\obj\Debug\ООП лаба 6 Перегрузка.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\ООП лаба 6 Перегрузка\ООП лаба 6 Перегрузка\obj\Debug\ООП лаба 6 Перегрузка.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\ООП лаба 6 Перегрузка\ООП лаба 6 Перегрузка\obj\Debug\ООП лаба 6 Перегрузка.exe
+C:\Users\sasha\source\repos\ООП лаба 6 Перегрузка\ООП лаба 6 Перегрузка\obj\Debug\ООП лаба 6 Перегрузка.pdb
